@@ -8,14 +8,3 @@
    3. 메세지와 함께 커밋을 생성한다.
 
 
-# README 내용 수정
-😊
-
-# README 내용 2차 수정
-2차 second 
-
-# README 내용 3차 수정
-3차 third
-
-# README 내용 4차 수정
-4차 fourth
